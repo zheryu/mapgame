@@ -10,7 +10,7 @@ Map games started simple, with few features other than a map and some city locat
 ## Stack
 
 ### Backend
-- Backend Framework: **Spring Boot** _in progress_
+- Backend Framework: **Spring Boot**
 - Database: **Neo4j** _in progress_
 
 ### Frontend
